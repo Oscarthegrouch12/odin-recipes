@@ -1,1 +1,2 @@
 # odin-recipes
+Going to use html to make a website with some of my favourite recipes. To be hoenst, not sure how this is goign to differ form what I use notoin for, and realistically, I'm not really going to use this for anything else. But that's ok, I'll add some quick and easy recipes that any one can get down and dirty with.
